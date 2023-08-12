@@ -1,0 +1,2 @@
+[12/08/2023 21:56:41] Exception Message  JSON in the gamesInvalidFormat.json was not in a valid format. After parsing a value an unexpected character was encountered: {. Path '[0]', line 7, position 2. JSON body: Stack trace    at GameDataParserV2.Application.Run() in /home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParserV2/Application.cs:line 43
+   at GameDataParserV2.Program.Main(String[] args) in /home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParserV2/Program.cs:line 14

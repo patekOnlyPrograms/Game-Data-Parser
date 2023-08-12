@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bQ6DV2mpXS0kI5bCdIOl5T1VPSYDBKwxiqU7kJ8vuHUzTFGOtHSXmEdQJgVB/Hrt9TLrhxboEjYQ7ObjZB/2vQ==",
+  "success": true,
+  "projectFilePath": "/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParser/GameDataParser.csproj",
+  "expectedPackageFiles": [
+    "/home/susruth/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

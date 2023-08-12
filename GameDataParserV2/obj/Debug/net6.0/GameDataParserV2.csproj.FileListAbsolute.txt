@@ -1,0 +1,17 @@
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParserV2/bin/Debug/net6.0/GameDataParserV2
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParserV2/bin/Debug/net6.0/GameDataParserV2.deps.json
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParserV2/bin/Debug/net6.0/GameDataParserV2.runtimeconfig.json
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParserV2/bin/Debug/net6.0/GameDataParserV2.dll
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParserV2/bin/Debug/net6.0/ref/GameDataParserV2.dll
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParserV2/bin/Debug/net6.0/GameDataParserV2.pdb
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParserV2/obj/Debug/net6.0/GameDataParserV2.csproj.AssemblyReference.cache
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParserV2/obj/Debug/net6.0/GameDataParserV2.GeneratedMSBuildEditorConfig.editorconfig
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParserV2/obj/Debug/net6.0/GameDataParserV2.AssemblyInfoInputs.cache
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParserV2/obj/Debug/net6.0/GameDataParserV2.AssemblyInfo.cs
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParserV2/obj/Debug/net6.0/GameDataParserV2.csproj.CoreCompileInputs.cache
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParserV2/obj/Debug/net6.0/GameDataParserV2.dll
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParserV2/obj/Debug/net6.0/ref/GameDataParserV2.dll
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParserV2/obj/Debug/net6.0/GameDataParserV2.pdb
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParserV2/obj/Debug/net6.0/GameDataParserV2.genruntimeconfig.cache
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParserV2/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParserV2/obj/Debug/net6.0/GameDataParserV2.csproj.CopyComplete

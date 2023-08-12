@@ -1,0 +1,32 @@
+/home/susruth/RiderProjects/GameDataParser/GameDataParser/bin/Debug/net6.0/GameDataParser
+/home/susruth/RiderProjects/GameDataParser/GameDataParser/bin/Debug/net6.0/GameDataParser.deps.json
+/home/susruth/RiderProjects/GameDataParser/GameDataParser/bin/Debug/net6.0/GameDataParser.runtimeconfig.json
+/home/susruth/RiderProjects/GameDataParser/GameDataParser/bin/Debug/net6.0/GameDataParser.dll
+/home/susruth/RiderProjects/GameDataParser/GameDataParser/bin/Debug/net6.0/ref/GameDataParser.dll
+/home/susruth/RiderProjects/GameDataParser/GameDataParser/bin/Debug/net6.0/GameDataParser.pdb
+/home/susruth/RiderProjects/GameDataParser/GameDataParser/obj/Debug/net6.0/GameDataParser.csproj.AssemblyReference.cache
+/home/susruth/RiderProjects/GameDataParser/GameDataParser/obj/Debug/net6.0/GameDataParser.GeneratedMSBuildEditorConfig.editorconfig
+/home/susruth/RiderProjects/GameDataParser/GameDataParser/obj/Debug/net6.0/GameDataParser.AssemblyInfoInputs.cache
+/home/susruth/RiderProjects/GameDataParser/GameDataParser/obj/Debug/net6.0/GameDataParser.AssemblyInfo.cs
+/home/susruth/RiderProjects/GameDataParser/GameDataParser/obj/Debug/net6.0/GameDataParser.csproj.CoreCompileInputs.cache
+/home/susruth/RiderProjects/GameDataParser/GameDataParser/obj/Debug/net6.0/GameDataParser.dll
+/home/susruth/RiderProjects/GameDataParser/GameDataParser/obj/Debug/net6.0/ref/GameDataParser.dll
+/home/susruth/RiderProjects/GameDataParser/GameDataParser/obj/Debug/net6.0/GameDataParser.pdb
+/home/susruth/RiderProjects/GameDataParser/GameDataParser/obj/Debug/net6.0/GameDataParser.genruntimeconfig.cache
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParser/bin/Debug/net6.0/GameDataParser
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParser/bin/Debug/net6.0/GameDataParser.deps.json
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParser/bin/Debug/net6.0/GameDataParser.runtimeconfig.json
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParser/bin/Debug/net6.0/GameDataParser.dll
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParser/bin/Debug/net6.0/ref/GameDataParser.dll
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParser/bin/Debug/net6.0/GameDataParser.pdb
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParser/obj/Debug/net6.0/GameDataParser.csproj.AssemblyReference.cache
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParser/obj/Debug/net6.0/GameDataParser.GeneratedMSBuildEditorConfig.editorconfig
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParser/obj/Debug/net6.0/GameDataParser.AssemblyInfoInputs.cache
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParser/obj/Debug/net6.0/GameDataParser.AssemblyInfo.cs
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParser/obj/Debug/net6.0/GameDataParser.csproj.CoreCompileInputs.cache
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParser/obj/Debug/net6.0/GameDataParser.dll
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParser/obj/Debug/net6.0/ref/GameDataParser.dll
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParser/obj/Debug/net6.0/GameDataParser.pdb
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParser/obj/Debug/net6.0/GameDataParser.genruntimeconfig.cache
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParser/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/susruth/Documents/Programming/Microsoft Java/GameDataParser/GameDataParser/obj/Debug/net6.0/GameDataParser.csproj.CopyComplete
